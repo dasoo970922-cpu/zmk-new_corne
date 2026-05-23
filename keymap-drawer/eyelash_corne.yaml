@@ -6,7 +6,7 @@ layers:
   - Ctl+C
   - Ctl+V
   - Ctl+T
-  - Z
+  - {t: '0', s: )}
   - $$mdi:arrow-up-bold$$
   - Y
   - U
