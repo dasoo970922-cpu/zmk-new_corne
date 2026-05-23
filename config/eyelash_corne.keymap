@@ -64,9 +64,9 @@
         default_layer {
             display-name = "CLIP";
             bindings = <
-&kp LC(S)  &kp DEL   &kp LC(C)  &kp LC(V)  &kp LC(T)      &kp LC(Z)                                         &kp UP                                &kp Y        &kp U  &kp I      &kp O    &kp P     &kp BSPC
+&kp LC(S)  &kp DEL   &kp LC(C)  &kp LC(V)  &kp LC(T)      &kp Z                                         &kp UP                                &kp Y        &kp U  &kp I      &kp O    &kp P     &kp BSPC
 &td0       &kp LALT  &kp M      &kp N5     &kp N4         &kp N3                           &kp LEFT  &kp ENTER  &kp RIGHT  &kp H        &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
-&kp LCTRL  &kp N8    &kp N7     &kp N6     &kp ENTER      &kp N9        &kp SPACE                            &kp DOWN                              &kp N        &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
+&kp LCTRL  &kp N8    &kp N7     &kp N6     &kp ENTER      &kp N9        &kp LSFT                            &kp DOWN                              &kp N        &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
                                 &kp GRAVE  &lt 1 N2       &lt 3 N1                                                                              &lt 3 ENTER  &mo 2  &kp RALT
             >;
 
