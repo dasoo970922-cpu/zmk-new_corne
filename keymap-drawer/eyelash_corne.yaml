@@ -6,7 +6,7 @@ layers:
   - Ctl+C
   - Ctl+V
   - Ctl+T
-  - Ctl+Z
+  - Z
   - $$mdi:arrow-up-bold$$
   - Y
   - U
@@ -35,7 +35,7 @@ layers:
   - {t: '6', s: ^}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '9', s: (}
-  - $$mdi:keyboard-space$$
+  - LSFT
   - $$mdi:arrow-down-bold$$
   - N
   - M
